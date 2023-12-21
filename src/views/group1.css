@@ -1,0 +1,30 @@
+.group1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.group1-group1 {
+  width: 174.375px;
+  height: 180px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.group1-ellipse2 {
+  top: 9.140625px;
+  left: 0px;
+  width: 171px;
+  height: 171px;
+  position: absolute;
+}
+.group1-ellipse1 {
+  top: 0px;
+  left: 3.515625px;
+  width: 171px;
+  height: 171px;
+  position: absolute;
+}

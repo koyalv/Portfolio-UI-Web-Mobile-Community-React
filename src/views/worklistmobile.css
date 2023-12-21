@@ -1,0 +1,101 @@
+.worklistmobile-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.worklistmobile-worklistmobile {
+  width: 344px;
+  height: 455px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.worklistmobile-rectangle30 {
+  top: 0px;
+  left: 0px;
+  width: 339px;
+  height: 230px;
+  position: absolute;
+  border-radius: 6px;
+}
+.worklistmobile-text {
+  top: 247px;
+  color: var(--dl-color-default-darkcolor);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Heebo;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.worklistmobile-text2 {
+  top: 293px;
+  left: 84px;
+  color: var(--dl-color-default-light);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Heebo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.worklistmobile-group2 {
+  top: 293px;
+  left: 0px;
+  width: 62px;
+  height: 25px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(20, 40, 80, 1);
+}
+.worklistmobile-text4 {
+  left: 12px;
+  color: rgba(255, 255, 255, 1);
+  width: 38px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Black;
+  text-align: center;
+  font-family: Heebo;
+  font-weight: 900;
+  line-height: 60px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.worklistmobile-text6 {
+  top: 342px;
+  color: var(--dl-color-default-darkcolor);
+  width: 344px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Heebo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.worklistmobile-vector8 {
+  top: 455px;
+  left: 0px;
+  width: 339px;
+  height: 1px;
+  position: absolute;
+}
